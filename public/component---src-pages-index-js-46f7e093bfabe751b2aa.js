@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkkielx_portfolio=self.webpackChunkkielx_portfolio||[]).push([[678],{7704:function(e,l,t){t.r(l);var a=t(7294),n=t(2413),r=t(6179),c=t(5604),i=t(9219);l.default=()=>a.createElement(a.Fragment,null,a.createElement(r.Z,{title:"Terminal Portfolio"}),a.createElement(n.Z,null,a.createElement(i.Z,null),a.createElement("div",{className:"container"},a.createElement(c.Z,{text:"~ $ls -l",delay:"natural"}))))}}]);
+//# sourceMappingURL=component---src-pages-index-js-46f7e093bfabe751b2aa.js.map

@@ -1,0 +1,5 @@
+{
+    "componentChunkName": "component---src-templates-page-template-js",
+    "path": "/experience/baixing-com",
+    "result": {"data":{"markdownRemark":{"html":"<p>Baixing.com · Full-time<br>\nOct 2014 - Oct 2019 · 5 yrs 1 mo<br>\nShanghai, China · On-site</p>\n<h3>Responsibilities</h3>\n<p>● Based on PHP and Elasticsearch, developed including core business logic, RESTful API, etc.<br>\n● Continuous updates and refactorings of the Core Classified Advertisements Query Service.<br>\n● Part of the front-end work developed and maintained a re-usable UI Components library.</p>","frontmatter":{"listName":"👨‍🔬 /Sr. Backend Eng","nameOfClass":"projects-items miniProjects","popupGithubLink":null,"popupImageAlt":"Baixing.com","popupImageSrc":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT1Awjp7rJYgWQ7cOUmLYFe2zDtxHQodtgQ73YyEZItIEpIkC-j29PLlcDv7SfmdjDOCD4&usqp=CAU","popupLiveLink":null,"techIcons":["php","mysql","javascript","graphql","nodedotjs","elasticsearch","redis","mongodb"],"title":"Senior Backend Engineer","video":"false"}}},"pageContext":{"slug":"experience/baixing-com"}},
+    "staticQueryHashes": ["4202924991"]}
